@@ -1,1 +1,2 @@
 print("Connecting bridge phase")
+print(_G.execifo)
